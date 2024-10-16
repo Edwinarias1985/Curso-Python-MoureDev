@@ -16,3 +16,14 @@ print(my_bool_variable)
 # Concatenación de variables en un print
 print(my_string_variable, my_int_to_str_variable, my_bool_variable)
 print("Este es el valor de:", my_bool_variable)
+print(len("Este es el valor de:"), my_bool_variable, "teóricos facultativos", my_string_variable)
+
+print(type(print("Mi cadena de texto"))) # Tipo dato 'NoneType' (Ningun tipo)
+
+# Algunas funciones del sistema
+print(len(my_string_variable))
+
+# Variables en una sola línea
+
+name, surname, alias, age = "Edwin", "Arias", "Megalomania", 39
+print("Me llamo:", name, surname, "Mi edad es", "Y mi alias es:", alias)
