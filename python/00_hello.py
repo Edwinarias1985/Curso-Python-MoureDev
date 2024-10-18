@@ -6,7 +6,7 @@ con varias
 líneas. Pues se utiliza 3 comillas simples o 3 comillas dobles tanto para abrir como para cerrar
 '''
 print("Hola mis queridos anacoretas")
-print('Strings se refirer a cadesa de texto' )
+print('Strings se refirer a cadena de texto alfa numérico' )
 
 x = 5 # Tipo de dato entero positivo (es in Integer)
 x = -5 # Tipo de dato entero negativo (es un integer)
